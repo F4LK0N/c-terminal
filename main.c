@@ -114,7 +114,7 @@ int main(int argC, char *argV[]){
     
     
         key_buffer = _getch();
-    
+    print "aqui";
     //EXIT
     return 0;
 }
